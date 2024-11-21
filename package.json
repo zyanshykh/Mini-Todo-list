@@ -1,0 +1,20 @@
+{
+  "name": "mini-to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zayan-Sheikh",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.1"
+  },
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}
